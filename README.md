@@ -1,2 +1,3 @@
-# xD0A1-art
-Public website
+# Public Website
+
+Hosted at xD0A1.art
